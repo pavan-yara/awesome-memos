@@ -8,8 +8,6 @@ A curated list of amazingly #awesome and interesting #memos.
 
 * [**Howard Marks Memos**](https://www.oaktreecapital.com/insights/howard-marks-memos). The founder and Chairman of Oaktree Capital  regularly writes letters to Oaktree clients outlining his views on markets and economies. The letters read like Michael Lewis ghostwriting for Warren Buffett: insightful, direct, homespun, expert and sharply pointed. Their quality and insight have gained them a devoted readership among value investors, fund managers and smart aleck bankers who enjoy casting an erudite glow.
 
-
-
 ## Platforms
 
 * [__Steve Yegge on Google and Amazon platforms__](https://sriramk.com/memos/yegge.pdf).[PDF Copy](https://github.com/pavan-yara/awesome-memos/blob/master/memos/yegge.pdf) Steve Yegge's famous "rant" to Google on how Amazon dealt with platforms. Sadly the original is no longer up after the demise of Google Plus.
@@ -56,7 +54,14 @@ A curated list of amazingly #awesome and interesting #memos.
 ## VC
 * [**Roelof Botha on his investment thesis for Youtube**](https://sriramk.com/memos/roelof-youtube.pdf). [PDF Copy](https://github.com/pavan-yara/awesome-memos/blob/master/memos/roelof-youtube.pdf). Roelof Botha's internal memo to Sequoia laying out an investment thesis for Youtube.
 
-
+## Strategy
+* Joel Spolsky's business strategy letters/memos from 2000.
+ - [Strategy Letter I: Ben and Jerry’s vs. Amazon](https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/)
+ - [Strategy Letter II: Chicken and Egg Problems](https://www.joelonsoftware.com/2000/05/24/strategy-letter-ii-chicken-and-egg-problems/)
+ - [Strategy Letter III: Let Me Go Back!](https://www.joelonsoftware.com/2000/06/03/strategy-letter-iii-let-me-go-back/)
+ - [Strategy Letter IV: Bloatware and the 80/20 Myth](https://www.joelonsoftware.com/2001/03/23/strategy-letter-iv-bloatware-and-the-8020-myth/)
+ - [Strategy Letter V](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
+ - [Strategy Letter VI](https://www.joelonsoftware.com/2007/09/18/strategy-letter-vi/)
 
 ## Music/Entertainment
 
