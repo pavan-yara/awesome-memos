@@ -101,5 +101,5 @@ A curated list of amazingly #awesome and interesting #memos.
 
 ## Other resources
 
-* Sriram Krishnan's original memos collection, which inspired the [awesome-memos](#awesome-memos) compilation.
+* Sriram Krishnan's [original memos collection](https://sriramk.com/memos.html), which inspired the [awesome-memos](#awesome-memos) compilation.
 
