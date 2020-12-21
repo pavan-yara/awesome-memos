@@ -39,6 +39,11 @@ A curated list of amazingly #awesome and interesting #memos.
 
 * [**Mark Zuckerberg on the thesis for why Facebook should buy Unity**](https://sriramk.com/memos/zuck-unity.pdf). [PDF Copy](https://github.com/pavan-yara/awesome-memos/blob/master/memos/zuck-unity.pdf). From Blake Harris's "History of the Future", Zuckerberg lays out his reasoning for why Facebook should buy Unity.
 
+* [**Andrew Bosworth on FB ads Andrew "Boz" Bosworth's strategy memo on how FB should approach ads**](https://sriramk.com/memos/boz-ads-biz.pdf)
+
+
+* [**Mark Zuckerberg negotiating with Kevin Systrom over the Instagram acquisition**](https://sriramk.com/memos/zuck_systrom.pdf) 
+
 ### Yahoo!
 
 * [**Brad Garlinghouse "Peanut Butter" memo**](https://sriramk.com/memos/garlinghouse-peanut-butter.pdf). [PDF Copy](https://github.com/pavan-yara/awesome-memos/blob/master/memos/garlinghouse-peanut-butter.pdf). The famous internal memo to Yahoo from then-SVP Garlinghouse on focusing more on fewer efforts and having clearer accountability.
